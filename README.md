@@ -1,16 +1,35 @@
-## Hi there 👋
+### 👋 Hi, I'm Gouri Parvathi
 
-<!--
-**Gouriparvathi/Gouriparvathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A data-driven professional transitioning from smart wearable product development into **Data Analytics**. I bring a unique combination of domain expertise in biometric data and smart wearables with strong analytical and storytelling skills.
 
-Here are some ideas to get you started:
+---
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** SQL, Python  
+**Database:** PostgreSQL
+**Visualization:** Power BI, Excel  
+**Data Handling:** Data Cleaning • Modeling • Transformation   
+
+---
+
+## 📊 What I Do
+
+- **SQL**: Writing queries to extract and manipulate meaningful insights from structured datasets.  
+- **Power BI**: Building interactive dashboards to communicate patterns and KPIs clearly.  
+- **Excel**: Leveraging pivot tables, formulas, and charts for quick, effective analysis.  
+- **Python**: Using Pandas, Numpy and Matplotlib for data wrangling and basic exploratory analysis.
+
+---
+
+## 📁 Projects
+
+🔗 Check out my featured projects here → [My Projects](#) *(https://github.com/Gouriparvathi/Portfolio)*
+
+---
+
+## 🌐 Let's Connect
+
+📧 parvathigouri10@gmail.com  
+🔗 [LinkedIn – Gouri Parvathi](https://www.linkedin.com/in/yourprofile) 
+
+---
