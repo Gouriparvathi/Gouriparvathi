@@ -23,7 +23,7 @@ A data-driven professional transitioning from smart wearable product development
 
 ## 📁 Projects
 
-🔗 Check out my featured projects here → [My Projects](#) *(https://github.com/Gouriparvathi/Portfolio)*
+🔗 Check out my featured projects here → [My Projects](https://github.com/Gouriparvathi/Portfolio)
 
 ---
 
