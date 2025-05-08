@@ -1,30 +1,33 @@
-### 👋 Hi, I'm Gouri Parvathi
+# 👋 Hi, I'm Gouri Parvathi
 
-A data-driven professional transitioning from smart wearable product development into **Data Analytics**. I bring a unique combination of domain expertise in biometric data and smart wearables with strong analytical and storytelling skills.
+A product-focused professional with experience in developing smart technology solutions and generating insights from data. My work bridges product innovation and analytics — blending user research, data exploration, and product strategy to drive real-world outcomes.
 
-## 🛠️ Tools & Technologies
+## 💼 Professional Focus
 
-**Languages:** SQL, Python  
-**Database:** PostgreSQL
-**Visualization:** Power BI, Excel  
-**Data Handling:** Data Cleaning • Modeling • Transformation   
+I specialize in understanding user needs, analyzing complex datasets, and delivering data-backed product decisions. From biometric wearables to behavioral experiments, my work involves identifying problems worth solving, validating them through research and metrics, and collaborating cross-functionally to build practical solutions.
 
+## 🧠 Key Competencies
 
-## 📊 What I Do
+### Product Development
+- User Research & Journey Mapping  
+- Product Strategy & Roadmapping
+- Experimental Design & A/B Testing
+- Wireframing & UI Design (Figma, Adobe Illustrator)  
+- Technical Documentation & Requirement Definition  
+- Agile & Lean Product Practices  
 
-- **SQL**: Writing queries to extract and manipulate meaningful insights from structured datasets.  
-- **Power BI**: Building interactive dashboards to communicate patterns and KPIs clearly.  
-- **Excel**: Leveraging pivot tables, formulas, and charts for quick, effective analysis.  
-- **Python**: Using Pandas, Numpy and Matplotlib for data wrangling and basic exploratory analysis.
+### Data Analytics
+- SQL (PostgreSQL)  
+- Power BI & Excel for Data Visualization  
+- Python (Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib)  
+- Exploratory Data Analysis
+- Product-Market & Behavioral Data Analysis  
 
-
-## 📁 Projects
-
-🔗 Check out my featured projects here → [My Projects](https://github.com/Gouriparvathi/Portfolio)
-
-
-## 🌐 Let's Connect
+## 🌐 Connect with Me
 
 📧 parvathigouri10@gmail.com  
-🔗 [LinkedIn – Gouri Parvathi](https://www.linkedin.com/in/yourprofile) 
+🔗 [LinkedIn](https://www.linkedin.com/in/gouriparvathi)
 
+---
+
+🔍 Constantly learning. Always solving. Focused on building meaningful, data-informed products.
